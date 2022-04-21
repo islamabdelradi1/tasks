@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url("../img/the-town-bg-01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+.klam{
+    color: white;
+    margin-top: 300px;
+}
+.klam h1{
+    text-shadow: 2px 2px 4px black;
+}
+.btn{
+    border-radius: 50px;
+}
+.r-t-p p{
+    color: rgb(114, 115, 116);
+}
+.threep h1{
+    color: rgb(122, 121, 121);
+}
+.imgs5 img{
+    width: 200px;
+    height: 300px;
+    padding-left: 10px;
+}
+footer{
+background-image: url("../img/the-town-bg-02.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+margin-top: 100px;
+overflow: hidden;
+}
+.form-control {
+    width: 280px;
+}
+.btnfotter{
+    margin-top: 57px;
+}
+.form-cxc input{
+    background-color: rgba(238, 238, 238, 0);
+    padding: 5px 0;
+    padding-right: 100px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 10px;
+    color: white !important;
+
+}
+.form-cxc input:hover{
+    background-color: rgba(238, 238, 238, 0);
+
+}
+.form-cxc input:focus{
+    outline: none;
+}
+
+.btns{
+    border-radius: 5px;
+    padding: 5px 20px;
+    border: none;
+    margin-left: 10px;
+    
+}
+
+.hh1{
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+}
+.navbar{
+    box-shadow: none;
+    display: flex;
+    justify-content: center;
+}
